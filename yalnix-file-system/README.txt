@@ -1,6 +1,4 @@
-Tyra Cole (tjc6)
-COMP 421 
-Lab 3
+Yalnix File System
 
 DESIGN 
 Important files to look at when it comes to my lab3 submission are yfs.c (the YFS file server 
